@@ -81,8 +81,7 @@ main {
 
 .details-container {
   padding-left: 20px;
-  width: 405px;
-  line-height: 4rem;
+  width: 450px;
   display: flex;
   flex-direction: column;
 }
@@ -93,6 +92,7 @@ main {
   font-size: 68px;
   margin-top: 85px;
   margin-bottom: 27px;
+  line-height: 4rem;
 }
 
 .details-container p {
@@ -103,7 +103,7 @@ main {
 
 .details-container button {
   width: fit-content;
-  padding: 10px 20px;
+  padding: 12px 23px;
   font-weight: 700;
   background-color: hsl(0, 0%, 8%);
   color: hsl(0, 0%, 98%);
