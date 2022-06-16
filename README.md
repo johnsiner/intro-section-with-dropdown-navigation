@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://github.com/johnsiner/intro-section-with-dropdown-navigation)
--  Live Site URL: [Add live site URL here](https://intro-section.herokuapp.com/)
+-  Solution URL: [https://github.com/johnsiner/intro-section-with-dropdown-navigation](https://github.com/johnsiner/intro-section-with-dropdown-navigation)
+-  Live Site URL: [https://intro-section.herokuapp.com/](https://intro-section.herokuapp.com/)
 
 ## My process
 
@@ -43,5 +43,5 @@ Users should be able to:
 
 ## Author
 
--  Frontend Mentor - [@yourusername](https://www.frontendmentor.io/johnsiner/yourusername)
--  Twitter - [@yourusername](https://www.twitter.com/iam_johnsin)
+-  Frontend Mentor - [@johnsiner](https://www.frontendmentor.io/profile/johnsiner)
+-  Twitter - [@iam_johnsin](https://www.twitter.com/iam_johnsin)
