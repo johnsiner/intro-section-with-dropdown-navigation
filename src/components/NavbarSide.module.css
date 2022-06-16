@@ -1,0 +1,85 @@
+.nav-container {
+   margin-top: 55px;
+   padding: 10px 25px 10px 25px;
+}
+
+.top-nav ul {
+   padding: 25px 25px 0 0;
+   margin: 0;
+}
+
+.top-nav ul li {
+   padding-bottom: 20px;
+}
+
+.buttom-nav ul {
+   text-align: center;
+   padding: 15px 0 10px 0;
+   margin: 0;
+}
+
+ul li {
+   list-style: none;
+   cursor: pointer;
+}
+
+ul li:hover,
+li:active {
+   color: black;
+}
+
+.arrow {
+   padding: 0 0 3px 8px;
+   transition: all 200ms linear;
+}
+
+.arrow-responsive {
+   padding: 3px 8px 0 0;
+   transform: rotate(180deg);
+   transition: all 200ms linear;
+}
+
+button {
+   background-color: transparent;
+   padding: 8px 0;
+   border-radius: 13px;
+   width: 100%;
+   color: hsl(0, 0%, 41%);
+   border-color: hsl(0, 0%, 41%);
+   font-size: 18px;
+}
+
+
+button:active {
+   color: black;
+   border-color: black;
+   cursor: pointer;
+}
+
+.top-nav ul .features-dropdown {
+   padding-left: 10px;
+   padding-bottom: 5px;
+}
+
+.features-dropdown ul {
+   margin: 0;
+   padding: 0;
+}
+
+.features-dropdown img {
+   margin-right: 8px;
+}
+
+.top-nav ul .company-dropdown {
+   padding: 0 0 0 10px;
+}
+
+.company-dropdown ul {
+   margin: 0;
+   padding: 0;
+}
+
+.company-dropdown ul li {
+   padding: 15px 0 0 0;
+   color: hsl(0, 0%, 41%);
+}
