@@ -12,10 +12,15 @@
    position: fixed;
    right: 0;
    min-height: 100vh;
-   width: 250px;
+   width: 45vw;
    z-index: 100;
+   transform: translateX(100%);
    background-color: white;
    transition: all 200ms linear;
+}
+
+.side-menu.opened {
+   transform: translateX(0);
 }
 
 .close-menu-icon {
